@@ -9,17 +9,12 @@
     <meta name="keywords" content="html, css, javascript">
     <!--หัวข้อหน้าเว็บของเรา-->
     <title>ยินดีต้อนรับเข้าสู่เว็บของเรา</title>
-
-
-        <h1>html5 สรุปงาน work shop ทั้งหมด </h1>
+</head>
+<body>
+        <h1> แทรกรูปภาพ workshop1</h1>
+        <img src= "imanges/q52xwolorlKa6Qff6aB-o.png">
         
-        <a href="index.html" >งานที่1แทรกรูปภาพ</a><br>
-        <a href="index.html" >งานที่2การเชื่องโยงลิงก์ด้วยข้อความ</a><br>
-        <a href="index.html" >งานที่3การเชื่อมโยงลิงก์ด้วยรูปภาพ</a><br>
-
-    
-
-
+        
        
 </body>
 </html>
